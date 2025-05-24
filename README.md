@@ -38,15 +38,20 @@ strings a.png | less
 ```
 
 ## OUTPUT:
-![image](./images/a1.png)
+![image](https://github.com/user-attachments/assets/4c916937-a02d-4695-a494-041018766219)
 
-![image](./images/a2.png)
 
-![image](./images/a3.png)
+![image](https://github.com/user-attachments/assets/3a155bc1-79d0-490e-99b4-f0866387b665)
 
-![image](./images/a4.png)
 
-![image](./images/a5.png)
+![image](https://github.com/user-attachments/assets/ef7a056e-d579-4e99-8d47-5ae1a7e2cc73)
+
+
+![image](https://github.com/user-attachments/assets/5b483978-e4b2-4e75-a4ee-fc45093a4f20)
+
+
+![image](https://github.com/user-attachments/assets/fbdfc362-84ee-4670-baa3-a8af06c159a5)
+
 
 
 ## RESULT:
